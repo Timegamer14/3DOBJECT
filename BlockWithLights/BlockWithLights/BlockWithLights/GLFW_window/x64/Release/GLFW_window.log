@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\glfw-3.3.8\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+C:\Users\ASUS\Downloads\BlockWithLights\BlockWithLights\GLFW_window\main.cpp(189,12): error C2661: 'Block::Block': no overloaded function takes 3 arguments
+C:\Users\ASUS\Downloads\BlockWithLights\BlockWithLights\GLFW_window\main.cpp(189,12): message : while trying to match the argument list '(glm::vec3, glm::vec3, glm::vec3)'
+C:\Users\ASUS\Downloads\BlockWithLights\BlockWithLights\GLFW_window\main.cpp(196,6): error C2248: 'Block::colour': cannot access private member declared in class 'Block'
+C:\Users\ASUS\Downloads\BlockWithLights\BlockWithLights\GLFW_window\Block.h(16,12): message : see declaration of 'Block::colour'
+C:\Users\ASUS\Downloads\BlockWithLights\BlockWithLights\GLFW_window\Block.h(9,7): message : see declaration of 'Block'
