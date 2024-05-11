@@ -1,0 +1,1 @@
+[2023-11-27 17:21:02][Info]	Creating TextureManager with 31 maximum bound textures
